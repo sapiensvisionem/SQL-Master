@@ -5,11 +5,11 @@
 2. How to create a relational database
 
 3. SQL Best Practices, EDA streamlined, and Questions to Answer
-- IN/Exist/Inner Join
-- Uncorrelated/Correlated Subqueries
-- Math Operations
-- Derived Table
-- Data manipulation
+  - IN/Exist/Inner Join
+  - Uncorrelated/Correlated Subqueries
+  - Math Operations
+  - Derived Table
+  - Data manipulation
 
 4. Connecting to R
 
